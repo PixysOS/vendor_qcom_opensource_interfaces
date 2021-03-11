@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3b0c8b6_0077168e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000061
+      },
+      "writtenOn": "2021-03-11T11:27:58Z",
+      "side": 1,
+      "message": "Required for X00TD new DT changes",
+      "revId": "98bcd904b8a7bd44d9392cc1c49f81a5a038dd2c",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028"
+    }
+  ]
+}
